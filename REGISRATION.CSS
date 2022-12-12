@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    background-position: 100px;
+    content-visibility: 100px;
+}
+#reg{
+    text-align: center;
+}
+.container{
+    align-content: space-around;
+    object-position: 5000px;
+    background-color: aqua;
+    background-size: cover;
+}
+.col{
+   
+    padding-top: 50px;
+}
+.col-md-6{
+    padding-top: 30px; 
+}
+.col-md-4{
+    padding-top: 30px;
+}
+.col-md-2{
+    padding-top: 30px; 
+}
