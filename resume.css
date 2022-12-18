@@ -1,0 +1,66 @@
+#con{
+    background-color: burlywood;
+    height: 800px;
+}
+#p{
+    background-color: rgb(247, 244, 240);
+    
+}
+#r2{
+    color: solid black;
+    text-align: center;
+    
+}
+#r1{
+    
+    background-color: burlywood;
+    width: 300px;
+    position: absolute;
+    left: 125px;
+    margin-top: 40px;
+    box-sizing: content-box;
+    padding: auto;
+    
+    
+}
+#pr{
+    content: normal;
+    bottom: 10px;
+}
+
+
+#e2{
+    text-align: center;
+}
+#row2{
+    background-color: burlywood;
+    position: absolute;
+    width: 300px;
+    left: 125px;
+    
+}
+#row3{
+    background-color: burlywood;
+    position: absolute;
+    width: 300px;
+    left: 125px;
+    
+}
+#e3{
+    text-align: center;
+}
+#row4{
+    background-color: burlywood;
+    position: absolute;
+    width: 300px;
+    left: 125px;
+}
+#e6{
+    text-align: center;
+}
+#p2{
+   
+   padding-left: 20px;
+}
+
+
